@@ -30,7 +30,7 @@ body {
 .hero {
     position: relative;
     height: 90vh;
-    background: url('IMG_20241228_184012_edit_2092049027778156.jpg') center/cover no-repeat;
+    background: url('IMG_20241228_184012_edit_2092049027778156.webp') center/cover no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
